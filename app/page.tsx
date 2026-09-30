@@ -14,7 +14,7 @@ const profile = {
   email: "biswajitbiswarajnansahoo14@gmail.com",
   github: "https://github.com/BISWAJIT1408",
   linkedin: "www.linkedin.com/in/biswajit-biswaranjan-sahoo-a75079374",
-  resume: "/Biswajit-Resume.pdf",
+  resume: "",
 };
 
 const skills = [
@@ -23,7 +23,6 @@ const skills = [
   { name: "C", level: "Intermediate", icon: "C" },
   { name: "HTML & CSS", level: "Advanced", icon: "UI" },
   { name: "JavaScript", level: "Intermediate", icon: "JS" },
-  { name: "Django", level: "Intermediate", icon: "DJ" },
   { name: "SQL / DBMS", level: "Advanced", icon: "DB" },
   { name: "Git & GitHub", level: "Intermediate", icon: "GT" },
   { name: "Data Structures", level: "Intermediate", icon: "DS" },
@@ -140,7 +139,7 @@ export default function Home() {
             <div className="about-text reveal">
               <p>
                 I am pursuing my <strong>Master of Computer Applications (MCA)</strong> after completing
-                my B.Sc. ITM. I&apos;m interested in software development, web technologies, Python and data-driven applications.
+                my B.Sc. MATHMATICS. I&apos;m interested in software development, web technologies, Python and data-driven applications.
               </p>
               <p>
                 My learning journey includes academic programming, Django projects, databases, data structures,
@@ -179,8 +178,8 @@ export default function Home() {
           </div>
           <div className="skill-categories">
             <div><Terminal/><span>Languages</span><b>Python · Java · C · JavaScript</b></div>
-            <div><Globe/><span>Web</span><b>HTML · CSS · Django · Responsive UI</b></div>
-            <div><Database/><span>Data</span><b>SQL · DBMS · Pandas · Power BI</b></div>
+            <div><Globe/><span>Web</span><b>HTML · CSS · Responsive UI</b></div>
+            <div><Database/><span>Data</span><b>SQL · DBMS  · Power BI</b></div>
           </div>
         </div>
       </section>
@@ -226,7 +225,7 @@ export default function Home() {
               <div className="timeline-dot"/>
               <div className="timeline-card">
                 <span className="time">Completed</span>
-                <h3>B.Sc. ITM</h3>
+                <h3>B.Sc. MATHMATICS</h3>
                 <p>Built the academic foundation that led me toward postgraduate study and software development.</p>
               </div>
             </div>
