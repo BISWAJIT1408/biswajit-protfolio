@@ -14,7 +14,7 @@ const profile = {
   email: "biswajitbiswarajnansahoo14@gmail.com",
   github: "https://github.com/BISWAJIT1408",
   linkedin: "www.linkedin.com/in/biswajit-biswaranjan-sahoo-a75079374",
-  resume: "",
+  resume:  "/Biswajit-Resume.pdf",
 };
 
 const skills = [
